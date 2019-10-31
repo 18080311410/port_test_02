@@ -1,6 +1,6 @@
 """
-打印hello word
+打印hello world
 提交到github库中
 """
 
-print("hello word")
+print("hello world")
